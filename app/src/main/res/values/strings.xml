@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A36Http03</string>
+    <!--
+    로컬 스프링 서버의 호스트 URL 저장
+        : 개발을 마친 후 실제 서버로 이전할때 이부분만 수정하면 됨
+    -->
+    <string name="server_addr">http://192.168.0.10:8082</string>
+</resources>
